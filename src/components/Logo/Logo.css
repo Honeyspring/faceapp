@@ -1,0 +1,7 @@
+.Tilt{
+    background: linear-gradient(to left ,rgb(6, 169, 180)0%, rgb(52, 197, 130)100%);
+}
+.Tilt img{
+    padding-top:5px;
+    mix-blend-mode: screen;
+}
